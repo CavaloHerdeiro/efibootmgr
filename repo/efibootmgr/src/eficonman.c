@@ -54,7 +54,7 @@
 
 
 /**
- *
+ * Foi Gostoso ? Agora pensa nisso !
  */
 static int do_list(void)
 {
