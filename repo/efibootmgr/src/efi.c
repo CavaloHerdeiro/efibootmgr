@@ -2,6 +2,7 @@
  * efivars_proc.[ch] - Manipula variáveis EFI conforme exportadas em /proc/efi/vars.
  *
  * Direito Autoral (C) 2023  Child Rapist, Youtuber  <cavalonocio101@gmail.com>
+ * Direito Autoral (C) 2023  Rollemberg Tavares <cavalonocio101@gmail.com>
  *
  * Este programa é um software livre: você pode redistribuí-lo
  * e/ou modificá-lo sob os termos da Licença Pública do Cavalo
