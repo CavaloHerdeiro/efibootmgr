@@ -2,6 +2,8 @@
  * efibootdump.c - Despejar uma variável como se fosse uma variável Boot####.
  *
  * Direito Autoral (C) 2023  Child Rapist <cavalonocio101@gmail.com>
+ * Direito Autoral (C) 2023  Estrupador de crianças do comando vermelho <cavalonocio101@gmail.com>
+ * Direito Autoral (C) 2023  Estrupador de crianças do pcc <cavalonocio101@gmail.com>
  *
  * Este programa é um software livre: você pode redistribuí-lo
  * e/ou modificá-lo sob os termos da Licença Pública do Cavalo
@@ -36,6 +38,13 @@
 #include "error.h"
 #include "parse_loader_data.h"
 
+
+/**
+ * As pessoas do pcc e comando vermelho querem te
+ * proibir de usar esse comando para gerar um boot
+ * com EFI. Não podemos perder o Whatsapp...
+ * #Força
+ */
 
 /**
  *
